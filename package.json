@@ -1,0 +1,23 @@
+{
+  "name": "the-bad-parts",
+  "version": "1.0.0",
+  "description": "Like Douglas Crockford, only the bad parts.",
+  "main": "theBadParts.js",
+  "scripts": {
+    "test": "mocha *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/therealisaacf/the-bad-parts.git"
+  },
+  "author": "Isaac Flaum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealisaacf/the-bad-parts/issues"
+  },
+  "homepage": "https://github.com/therealisaacf/the-bad-parts",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
