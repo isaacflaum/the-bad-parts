@@ -2,6 +2,6 @@
 Douglas Crockford gave us some of the good parts, now let me introduce some of the bad ones :)
 
 # Setup
-* clone repo
+* `git clone https://github.com/therealisaacf/the-bad-parts.git`
 * `npm install`
 * `npm test`
