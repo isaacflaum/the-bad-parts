@@ -4,7 +4,7 @@
     "description": "Like Douglas Crockford, only the bad parts.",
     "main": "theBadParts.js",
     "scripts": {
-        "test": "mocha *.js"
+        "start": "mocha *.js"
     },
     "repository": {
         "type": "git",
